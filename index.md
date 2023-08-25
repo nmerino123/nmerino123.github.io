@@ -14,7 +14,8 @@ I used to convert .exe's into .app's IOT to play windows games on my mom's mac i
 > Check out this link if you're curious [WineBottler]https://winebottler.kronenberg.org/
 
 ### Cool Code Snippet?
-Not sure what you what here but here is what it took IOT center an image.
+Not sure what you want but here is what it took IOT center an image. This is important because I discovered you can not center an image in html unless you resize it first.
+
 ![Alt text](img/Codesnippet.JPG)
-This is important because I discovered you can not center an image in html unless you resize it first.
+
 > During the application process, I had technical issues with the site provided which led me to discover you could use notepad and just change the file from .txt to .html IOT make a landing page on my local system.
