@@ -1,0 +1,2 @@
+# Thursday August 24th 2242
+This first week hasn't been my expectation of this course. It reminds me of how my sister taught me how to swim.. pushed me in the deep end and if I didn't come back up she fished me out. I'm 
