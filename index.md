@@ -15,37 +15,6 @@ I used to convert .exe's into .app's IOT to play windows games on my mom's mac i
 
 ### Cool Code Snippet?
 Not sure what you what here but here is what it took IOT center an image.
-'<style>
-		body {
-  		background-color: green;
-		}
-		h1 {
-  		text-align: center;
-		}
-		.title {
- 		 background-color: darkkhaki;
-		 color: green;
- 		 border: 2px solid black;
- 		 margin: 20px;
-  		padding: 20px;
-		}
-		.para {
- 		 background-color: darkkhaki;
-		 color: black;
- 		 border: 2px solid black;
- 		 margin: 20px;
-  		padding: 20px;
-		}
-		.center {
- 		background-color: Cornflowerblue;
-		 color: black;
- 		 border: 2px solid black;
- 		 margin: 20px;
-  		padding: 20px;
-		.display: block;
- 		 margin-left: auto;
- 		 margin-right: auto;
- 		 width: 50%;
-		}
-	</style>'
-    This is important because I discovered you can not center an image in html unless you resize it first.	
+![Alt text](img/Codesnippet.JPG)
+This is important because I discovered you can not center an image in html unless you resize it first.
+> During the application process, I had technical issues with the site provided which led me to discover you could use notepad and just change the file from .txt to .html IOT make a landing page on my local system.
