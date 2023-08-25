@@ -1,2 +1,4 @@
 # Thursday August 24th 2242
-This first week hasn't been my expectation of this course. It reminds me of how my sister taught me how to swim.. pushed me in the deep end and if I didn't come back up she fished me out. I'm 
+This first week hasn't been my expectation. This isn't to imply a negative connation but just an observation. It reminds me of how my sister taught me how to swim. she pushed me in the deep end and if I didn't come back up she fished me out. 
+## Looking to the future
+I'm not sure if excited or eager is the right way to desribe how i feel for upcoming content, I would use ambvivalent. This feeling comes from not understanding the intricancies of tools and knowing I will have to move on anyways. It may come to me as we go but I'm not clairvoyant so I'm gonna focus on not being so tempermental when faced with challenges.
